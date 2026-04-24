@@ -122,7 +122,7 @@ Documented a basic Business Continuity checklist:
 
 ## 📸 Screenshots
 
-> _Windows Server Backup console, rsync log output, and recovery boot screenshots will be added here._
+> _Windows Server Backup console, rsync log output, and recovery boot screenshots
 
 ---
 
